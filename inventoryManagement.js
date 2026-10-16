@@ -1,4 +1,4 @@
-let products = ["laptop", "phone", "headphones", "monitor"];
+let products = ["Laptop", "Phone", "Headphones", "Monitor"];
 
 function logFirstProduct() {
   console.log(products[0]);
